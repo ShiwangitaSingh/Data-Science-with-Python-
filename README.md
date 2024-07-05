@@ -4,3 +4,4 @@ This repository contains the code for the weekly tasks assigned during my intern
 - [Task-2 Data Manipulation with Pandas](https://github.com/ShiwangitaSingh/Data-Science-with-Python-/tree/main/Task-2%20Data%20Manipulation%20with%20Pandas)
 - [Task-3 Data Visualization with Matplotlib](https://github.com/ShiwangitaSingh/Data-Science-with-Python-/tree/main/Task-3%20Data%20Visualization%20with%20Matplotlib)
 - [Task-4 Exploratory Data Analysis](https://github.com/ShiwangitaSingh/Data-Science-with-Python-/tree/main/Task-4%20Exploratory%20Data%20Analysis)
+- [Task-5 Feature Engineering and Selection](https://github.com/ShiwangitaSingh/Data-Science-with-Python-/tree/main/Task-5%20Feature%20Engineering%20and%20Selection)
