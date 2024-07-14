@@ -18,6 +18,9 @@ Performed exploratory data analysis (EDA) on datasets to uncover patterns, relat
 ### 5. [Feature Engineering and Selection](https://github.com/ShiwangitaSingh/Data-Science-with-Python-/tree/main/Task-5%20Feature%20Engineering%20and%20Selection)
 Engaged in feature engineering to create meaningful variables from raw data and feature selection to identify the most relevant features for modeling. Employed correlation analysis.
 
+### 6. [Advanced Data Analysis Techniques](https://github.com/ShiwangitaSingh/Data-Science-with-Python-/tree/main/Task-6%20Advanced%20Data%20Analysis%20Techniques)
+Revision of all previous tasks to refine and enhance the overall analysis. This involved re-evaluating exploratory data analysis (EDA), feature engineering, selection processes, and applying advanced techniques to ensure robustness and accuracy.
+
 Each task folder includes detailed comments and documentation for clarity.<br><br>
 
 
